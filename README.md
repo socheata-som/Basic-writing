@@ -25,7 +25,5 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 ![This is an image](https://memegenerator.net/img/instances/37780776.jpg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.ytimg.com/vi/uZ3-lZG21ps/maxresdefault.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/uZ3-lZG21ps/maxresdefault.jpg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.ytimg.com/vi/uZ3-lZG21ps/maxresdefault.jpg">
 </picture>
