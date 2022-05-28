@@ -24,6 +24,23 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 
 ![This is an image](https://memegenerator.net/img/instances/37780776.jpg)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/uZ3-lZG21ps/maxresdefault.jpg">
-</picture>
+* So
+* Socheata
+* Socheata Som
+
+1. Som
+2. Som So
+3. Som socheata
+
+1. First
+    - Second
+      -Third
+      
+ - [x] write
+ - [x] read
+ - [ ] speak
+ - [ ] listen
+
+🙃
+
+
